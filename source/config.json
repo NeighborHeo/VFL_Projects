@@ -1,0 +1,13 @@
+{
+    "input_dim": 96,
+    "output_dim": 2,
+    "nlayers": 2,
+    "bidir": true,
+    "dropout": 0.3,
+    "hidden_dim": 50,
+    "epochs":15,
+    "gpu": false,
+    "batch_size": 1,
+    "classes": 2
+}
+
